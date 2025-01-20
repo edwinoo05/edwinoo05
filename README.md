@@ -9,6 +9,7 @@ I'm currently studying Bachelor of Computer Science (Networks and Security) with
 *   🌍  I'm based in Johor Bahru, Malaysia
 *   ✉️  You can contact me at [edwinminghao@gmail.com](mailto:edwinminghao@gmail.com)
 *   🤝  I'm open to collaborating on projects### Skills
+*   🔗  My personal E-Portfolio Website at [https://edwinoo05.github.io](https://edwinoo05.github.io/)
 *   ### Education📖
 | Level | Place |
 | ----------- | ----------- |
