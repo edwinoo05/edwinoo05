@@ -29,7 +29,7 @@ I'm currently studying Bachelor of Computer Science (Networks and Security) with
 
 [Discrete Structure](https://github.com/edwinoo05/Discrete-Structure)
 
-[Programming Technique 1](https://github.com/edwinoo05/Programming-Technique-I)
+[Programming Technique I](https://github.com/edwinoo05/Programming-Technique-I)
 
 [Technology and Information System](https://github.com/edwinoo05/Technology-and-Information-System)
 
