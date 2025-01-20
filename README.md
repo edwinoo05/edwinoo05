@@ -16,7 +16,7 @@ I'm currently studying Bachelor of Computer Science (Networks and Security) with
 | Primary School | SJK(C) JELUTONG |
 | Secondary School | SMJK CHUNG LING |
 | Foundation | UTM SPACE KUALA LUMPUR |
-| Degree | UNIVERSITI TEKNOLOGI MALAYSIA JOHOR BAHRU|
+| Bachelor Degree | UNIVERSITI TEKNOLOGI MALAYSIA JOHOR BAHRU|
 
 ### Award 🏆
 | Year | Title | PLace |
